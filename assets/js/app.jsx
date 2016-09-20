@@ -51,9 +51,9 @@ var NewsItem = React.createClass({
         </div>
       );
     } else {
-      var newsNode = this.props.data.map(function(item) {
+      var newsNode = this.props.data.map(function(item, i) {
         return (
-          <li className="news-item">
+          <li className="news-item" key={i}>
             <small className="publish-date">{item.publishedDate}</small>
             <h3 className="title">{item.title}</h3>
             <div className="description">{item.contentSnippet}</div>
