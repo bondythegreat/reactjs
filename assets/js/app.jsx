@@ -73,6 +73,8 @@ var NewsItem = React.createClass({
 var PieChartCalculation = React.createClass({
   getInitialState: function() {
     return {
+      // TODO: GET DATA FROM NewsList state value
+      // still dummy data
       data: [
         {"label":"17 September 2016","value":"1"},
         {"label":"16 September 2016","value":"10"},
@@ -88,7 +90,8 @@ var PieChartCalculation = React.createClass({
       height: '400'
     }, this.state.data);
   },
-  calculateByDate: function() {
+  countByDate: function() {
+    // TODO: count per date
     var self = this;
     var newsNode = this.props.data.map(function(item) {
       var theDate = new Date(item.publishedDate);
