@@ -4,7 +4,9 @@ var url = "http://bondan.senta.nu/portfolio/reactjs/assets/data/data.xml",
 
 var NewsList = React.createClass({
   getInitialState: function() {
-    return {data: []};
+    return {
+      data: []
+    };
   },
   ajaxRequest: function() {
     var self = this,
@@ -50,7 +52,6 @@ var NewsItem = React.createClass({
       );
     } else {
       var newsNode = this.props.data.map(function(item) {
-        console.log(item);
         return (
           <li className="news-item">
             <small className="publish-date">{item.publishedDate}</small>
@@ -69,4 +70,51 @@ var NewsItem = React.createClass({
   }
 });
 
+var PieChartCalculation = React.createClass({
+  getInitialState: function() {
+    return {
+      data: [
+        {"label":"17 September 2016","value":"1"},
+        {"label":"16 September 2016","value":"10"},
+        {"label":"15 September 2016","value":"5"},
+        {"label":"13 September 2016","value":"6"},
+        {"label":"10 September 2016","value":"1"},
+      ]
+    };
+  },
+  componentDidMount: function() {
+    d3chart.create({
+      width: '300',
+      height: '400'
+    }, this.state.data);
+  },
+  calculateByDate: function() {
+    var self = this;
+    var newsNode = this.props.data.map(function(item) {
+      var theDate = new Date(item.publishedDate);
+      var newFormatDate = Date("d M Y", theDate);
+      if (item.filter(x=> x.label === newFormatDate)) {
+        self.setState.data.value++;
+      } else {
+        self.setState.data.label(newFormatDate);
+        self.setState.data.value(1);
+      }
+    });
+  },
+  render: function() {
+    return(
+      null
+    );
+  }
+});
+
+var ShowChart = React.createClass({
+  render: function() {
+    return(
+      <PieChartCalculation />
+    );
+  }
+});
+
 ReactDOM.render(<NewsList rss={url} />, document.getElementById('app'));
+ReactDOM.render(<ShowChart />, document.getElementById('chart'));
