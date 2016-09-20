@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>All Top News -- ScienceDaily</title>
+        <link>https://www.sciencedaily.com/news/top/</link>
+        <description>Top science stories featured on ScienceDaily's home page.</description>
+        <language>en-us</language>
+        <pubDate>Sun, 18 Sep 2016 15:24:01 EDT</pubDate>
+        <lastBuildDate>Sun, 18 Sep 2016 15:24:01 EDT</lastBuildDate>
+        <ttl>60</ttl>
+        <image>
+            <title>All Top News -- ScienceDaily</title>
+            <url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+            <link>https://www.sciencedaily.com/news/top/</link>
+            <description>For more science news, visit ScienceDaily.</description>
+        </image>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://rss.sciencedaily.com/top.xml" type="application/rss+xml" />
+        <item>
+            <title>This is Bondan News</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916135002.htm</link>
+            <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium perspiciatis asperiores ullam, tempora quae doloribus, voluptas iure laborum eveniet ipsa natus aspernatur quidem harum nostrum deserunt delectus, unde dolorum in.</description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916135002.jpg" height="200" width="300" />
+            <pubDate>Fri, 17 Sep 2016 13:50:02 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916135002.htm</guid>
+        </item>
+        <item>
+            <title>Fish lose their unique personality when they go to &#039;school&#039;</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916135002.htm</link>
+            <description>Despite individual animals having their own personality, this gets suppressed when they make decisions together in a group, new research has found. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916135002.jpg" height="200" width="300" />
+            <pubDate>Fri, 16 Sep 2016 13:50:02 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916135002.htm</guid>
+        </item>
+        <item>
+            <title>What dinosaurs&#039; color patterns say about their habitat</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916134251.htm</link>
+            <description>After reconstructing the color patterns of a well-preserved dinosaur from China, researchers have found that the long-lost species Psittacosaurus (meaning &quot;parrot lizard,&quot; a reference to its parrot-like beak) was light on its underside and darker on top. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916134251.jpg" height="200" width="300" />
+            <pubDate>Fri, 16 Sep 2016 13:42:51 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916134251.htm</guid>
+        </item>
+        <item>
+            <title>Gut pathogens thrive on body&#039;s tissue-repair mechanism</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916114635.htm</link>
+            <description>Why do some foodborne bacteria make us sick? A new study has found that pathogens in the intestinal tract cause harm because they benefit from immune system responses designed to repair the very damage to the intestinal lining caused by the bacteria in the first place. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916114635.jpg" height="200" width="300" />
+            <pubDate>Fri, 16 Sep 2016 11:46:35 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916114635.htm</guid>
+        </item>
+        <item>
+            <title>Solar system could have evolved from poorly mixed elemental soup</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916110636.htm</link>
+            <description>Chondrite meteorites contain a puzzling mismatch in isotopic composition with Earth&#039;s crust. The mismatch puzzles scientists because they long believed that Earth formed from planetary objects similar to meteorites. A new paper explains how this mismatch could have come about. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916110636.jpg" height="141" width="300" />
+            <pubDate>Fri, 16 Sep 2016 11:06:36 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916110636.htm</guid>
+        </item>
+        <item>
+            <title>Tasty letters? Sensory connections spill over in synesthesia</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916104646.htm</link>
+            <description>Neuroscientists have found that people who experience a mixing of the senses, known as synesthesia, are more sensitive to associations everyone has between the sounds of words and visual shapes. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916104646.jpg" height="282" width="300" />
+            <pubDate>Fri, 16 Sep 2016 10:46:46 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916104646.htm</guid>
+        </item>
+        <item>
+            <title>Frogs and grasshoppers: Why do legendary leapers have different ‘spring’ stiffness?</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916103223.htm</link>
+            <description>New research on grasshoppers and bullfrogs offers a conclusion about jumping: When an animal has less time to store energy for a jump, it needs a less stiff tendon than one that can take its time. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916103223.jpg" height="232" width="300" />
+            <pubDate>Fri, 16 Sep 2016 10:32:23 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916103223.htm</guid>
+        </item>
+        <item>
+            <title>Freshwater stingrays chew their food just like a goat</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916095826.htm</link>
+            <description>A new study has found that some freshwater stingrays from the Amazon chew their food in a similar fashion as mammals. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916095826.jpg" height="249" width="300" />
+            <pubDate>Fri, 16 Sep 2016 09:58:26 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916095826.htm</guid>
+        </item>
+        <item>
+            <title>How rattlesnakes got, and lost, their venom</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916094452.htm</link>
+            <description>Millions of years ago, the ancestor of modern rattlesnakes was endowed with a genetic arsenal of toxic weaponry. But in a relatively short period of evolutionary time, different types of snakes kept different types of toxin genes, and shed others. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916094452.jpg" height="200" width="300" />
+            <pubDate>Fri, 16 Sep 2016 09:44:52 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916094452.htm</guid>
+        </item>
+        <item>
+            <title>Memory of a heart attack is stored in our genes</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916093134.htm</link>
+            <description>Both heredity and environmental factors influence our risk of cardiovascular disease. A new study shows now that the memory of a heart attack can be stored in our genes through epigenetic changes. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916093134.jpg" height="200" width="300" />
+            <pubDate>Fri, 16 Sep 2016 09:31:34 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916093134.htm</guid>
+        </item>
+        <item>
+            <title>Origin of minor planets&#039; rings revealed</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160916093030.htm</link>
+            <description>A team of researchers has clarified the origin of the rings recently discovered around two minor planets known as centaurs, and their results suggest the existence of rings around other centaurs. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160916093030.jpg" height="95" width="300" />
+            <pubDate>Fri, 16 Sep 2016 09:30:30 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160916093030.htm</guid>
+        </item>
+        <item>
+            <title>&#039;Thermal metamaterial&#039; innovation could help bring waste-heat harvesting technology to power plants, factories</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915174938.htm</link>
+            <description>Researchers have used a &#039;thermal metamaterial&#039; to control the emission of radiation at high temperatures, an advance that could bring devices able to efficiently harvest waste heat from power plants and factories. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915174938.jpg" height="180" width="300" />
+            <pubDate>Thu, 15 Sep 2016 17:49:38 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915174938.htm</guid>
+        </item>
+        <item>
+            <title>For first time, individual atoms seen keeping away from each other or bunching up as pairs</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915162930.htm</link>
+            <description>If you bottle up a gas and try to image its atoms using today&#039;s most powerful microscopes, you will see little more than a shadowy blur. Atoms zip around at lightning speeds and are difficult to pin down at ambient temperatures. If, however, these atoms are plunged to ultracold temperatures, they slow to a crawl, and scientists can start to study how they can form exotic states of matter, such as superfluids, superconductors, and quantum magnets. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915162930.jpg" height="200" width="300" />
+            <pubDate>Thu, 15 Sep 2016 16:29:30 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915162930.htm</guid>
+        </item>
+        <item>
+            <title>Bats use second sense to hunt prey in noisy environments</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915154232.htm</link>
+            <description>Like many predators, the fringe-lipped bat primarily uses its hearing to find its prey, but with human-generated noise on the rise, scientists are examining how bats and other animals might adapt to find their next meal. According to a new study, when noise masks the mating calls of the bat&#039;s prey, túngara frogs, the bat shifts to another sensory mode -- echolocation. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915154232.jpg" height="169" width="300" />
+            <pubDate>Thu, 15 Sep 2016 15:42:32 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915154232.htm</guid>
+        </item>
+        <item>
+            <title>First U.S. marine national monument created in Atlantic</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915151540.htm</link>
+            <description>Deep in the oceans exist some of the world&#039;s oldest and most mysterious sea canyons and mountains, or seamounts. Formed millions of years ago by extinct volcanoes and sediment erosion, sea canyons and seamounts are biodiversity hot spots -- home to many rare and endangered species. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915151540.jpg" height="400" width="300" />
+            <pubDate>Thu, 15 Sep 2016 15:15:40 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915151540.htm</guid>
+        </item>
+        <item>
+            <title>A tight squeeze for electrons: Quantum effects observed in &#039;one-dimensional&#039; wires</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915143401.htm</link>
+            <description>Researchers have observed quantum effects in electrons by squeezing them into one-dimensional &#039;quantum wires&#039; and observing the interactions between them. The results could be used to aid in the development of quantum technologies, including quantum computing. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915143401.jpg" height="146" width="300" />
+            <pubDate>Thu, 15 Sep 2016 14:34:01 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915143401.htm</guid>
+        </item>
+        <item>
+            <title>Echoes of black holes eating stars discovered</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915142609.htm</link>
+            <description>A black hole destroying a star, an event astronomers call &#039;stellar tidal disruption,&#039; releases an enormous amount of energy, brightening the surroundings in an event called a flare. Two new studies characterize tidal disruption flares by studying how surrounding dust absorbs and re-emits their light, like echoes. This approach allowed scientists to measure the energy of flares from stellar tidal disruption events more precisely than ever before. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915142609.jpg" height="169" width="300" />
+            <pubDate>Thu, 15 Sep 2016 14:26:09 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915142609.htm</guid>
+        </item>
+        <item>
+            <title>Some ancient Mars lakes formed long after others</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915142043.htm</link>
+            <description>Lakes and snowmelt-fed streams on Mars formed much later than previously thought possible, according to new findings. The recently discovered lakes and streams appeared roughly a billion years after an earlier era of wet conditions on ancient Mars. These results suggest the surface conditions at this later time may also have been suitable for microbial life on the Red Planet. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915142043.jpg" height="374" width="300" />
+            <pubDate>Thu, 15 Sep 2016 14:20:43 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915142043.htm</guid>
+        </item>
+        <item>
+            <title>Gaia’s billion star maps hints at treasures to come</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915141950.htm</link>
+            <description>The first catalog of more than a billion stars from ESA&#039;s Gaia satellite was just published -- the largest all-sky survey of celestial objects to date. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915141950.jpg" height="188" width="300" />
+            <pubDate>Thu, 15 Sep 2016 14:19:50 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915141950.htm</guid>
+        </item>
+        <item>
+            <title>Astronomers capture best view ever of disintegrating comet</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915132442.htm</link>
+            <description>Astronomers have captured the sharpest, most detailed observations of a comet breaking apart 67 million miles from Earth, using NASA&#039;s Hubble Space Telescope. The images suggest that the roughly 4.5-billion-year-old comet, named 332P/Ikeya-Murakami, or comet 332P, may be spinning so fast that material is ejected from its surface. The resulting debris is now scattered along a 3,000-mile-long trail, larger than the width of the continental United States. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915132442.jpg" height="196" width="300" />
+            <pubDate>Thu, 15 Sep 2016 13:24:42 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915132442.htm</guid>
+        </item>
+        <item>
+            <title>Stem cells grown into 3-D lung-in-a-dish</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915132225.htm</link>
+            <description>By coating tiny gel beads with lung-derived stem cells and then allowing them to self-assemble into the shapes of the air sacs found in human lungs, researchers have succeeded in creating three-dimensional lung &quot;organoids.&quot; The laboratory-grown lung-like tissue can be used to study diseases including idiopathic pulmonary fibrosis, which has traditionally been difficult to study using conventional methods. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915132225.jpg" height="200" width="300" />
+            <pubDate>Thu, 15 Sep 2016 13:22:25 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915132225.htm</guid>
+        </item>
+        <item>
+            <title>Pacific Ocean’s response to greenhouse gases could extend California drought for centuries</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915131524.htm</link>
+            <description>Clues from prehistoric droughts and arid periods in California show that today&#039;s increasing greenhouse gas levels could lock the state into drought for centuries. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915131524.jpg" height="200" width="300" />
+            <pubDate>Thu, 15 Sep 2016 13:15:24 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915131524.htm</guid>
+        </item>
+        <item>
+            <title>Black hole hidden within its own exhaust</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915120520.htm</link>
+            <description>New data from ALMA reveal that the black hole at the center of a galaxy named NGC 1068 is actually the source of its own dusty torus of dust and gas, forged from material flung out of the black hole&#039;s accretion disk. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915120520.jpg" height="300" width="300" />
+            <pubDate>Thu, 15 Sep 2016 12:05:20 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915120520.htm</guid>
+        </item>
+        <item>
+            <title>Starving black hole returns brilliant galaxy to the shadows</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915120347.htm</link>
+            <description>Many galaxies are found to have an extremely bright core powered by a supermassive black hole. These cores make &quot;active galaxies&quot; some of the brightest objects in the Universe. They are thought to shine so brightly because hot material is glowing fiercely as it falls into the black hole, a process known as accretion. This brilliant light can vary hugely between different active galaxies, so astronomers classify them into several types based on the properties of the light they emit. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915120347.jpg" height="300" width="300" />
+            <pubDate>Thu, 15 Sep 2016 12:03:47 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915120347.htm</guid>
+        </item>
+        <item>
+            <title>Yes, computing genetic ancestors is super accurate</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915090018.htm</link>
+            <description>For decades, geneticists have used programs to compute back through tens of millions of years of mutations to ancestral genes. Are the algorithms really working? A novel lab physical benchmark says yes. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915090018.jpg" height="224" width="300" />
+            <pubDate>Thu, 15 Sep 2016 09:00:18 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915090018.htm</guid>
+        </item>
+        <item>
+            <title>Four basic personality types identified: Pessimistic; optimistic; envious and trusting</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915085719.htm</link>
+            <description>A study on human behavior has revealed that 90% of the population can be classified into four basic personality types: Optimistic, Pessimistic, Trusting and Envious. However, the latter of the four types, Envious, is the most common, with 30% compared to 20% for each of the other groups. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915085719.jpg" height="225" width="300" />
+            <pubDate>Thu, 15 Sep 2016 08:57:19 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915085719.htm</guid>
+        </item>
+        <item>
+            <title>For 20 million years, the diversity of large terrestrial mammals depended on plant growth</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160915085717.htm</link>
+            <description>For more than 20 million years, the ups and downs of diversity in terrestrial large mammals were determined by primary production, i.e. net production of plant biomass. This pattern changed with the onset of the ice ages. The reason for this is likely the beginning of human impact on nature, according to a new research. Based on 14,000 fossils, the scientists reconstructed the diversity of terrestrial large mammals and compared it with data on the biomass production of plants during the same time period. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160915085717.jpg" height="322" width="300" />
+            <pubDate>Thu, 15 Sep 2016 08:57:17 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160915085717.htm</guid>
+        </item>
+        <item>
+            <title>X-ray detection sheds new light on Pluto</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914150515.htm</link>
+            <description>Scientists using NASA&#039;s Chandra X-ray Observatory have made the first detections of X-rays from Pluto. These observations offer new insight into the space environment surrounding the largest and best-known object in the solar system&#039;s outermost regions. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914150515.jpg" height="206" width="300" />
+            <pubDate>Wed, 14 Sep 2016 15:05:15 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914150515.htm</guid>
+        </item>
+        <item>
+            <title>Researchers identify oldest textile dyed indigo, reflecting scientific knowledge from 6,200 years ago</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914150426.htm</link>
+            <description>A 6,200-year-old indigo-blue fabric from Huaca, Peru has been found by a researcher, making it one of the oldest-known cotton textiles in the world and the oldest known textile decorated with indigo blue. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914150426.jpg" height="340" width="300" />
+            <pubDate>Wed, 14 Sep 2016 15:04:26 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914150426.htm</guid>
+        </item>
+        <item>
+            <title>Pluto &#039;paints&#039; its largest moon red</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914145849.htm</link>
+            <description>In June 2015, when the cameras on NASA&#039;s approaching New Horizons spacecraft first spotted the large reddish polar region on Pluto&#039;s largest moon, Charon, mission scientists knew two things: they&#039;d never seen anything like it elsewhere in our solar system, and they couldn&#039;t wait to get the story behind it. Over the past year, the scientists think they&#039;ve solved the mystery. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914145849.jpg" height="300" width="300" />
+            <pubDate>Wed, 14 Sep 2016 14:58:49 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914145849.htm</guid>
+        </item>
+        <item>
+            <title>Larger marine animals at higher risk of extinction, and humans are to blame</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914144312.htm</link>
+            <description>In today&#039;s oceans, larger-bodied marine animals are more likely to become extinct than smaller creatures, according to a new report. It&#039;s a pattern that is unprecedented in the history of life on Earth, and one that is likely driven by human fishing. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914144312.jpg" height="201" width="300" />
+            <pubDate>Wed, 14 Sep 2016 14:43:12 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914144312.htm</guid>
+        </item>
+        <item>
+            <title>Pigeon flock members can &#039;overrule&#039; incompetent leaders</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914143044.htm</link>
+            <description>Flock leaders who attempt to give their fellow pigeons incorrect information about their direction of travel can be overruled by the collective wisdom of the group, according to new research. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914143044.jpg" height="188" width="300" />
+            <pubDate>Wed, 14 Sep 2016 14:30:44 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914143044.htm</guid>
+        </item>
+        <item>
+            <title>Tropical crow species is highly skilled tool user</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914135925.htm</link>
+            <description>An international team of scientists and conservation experts has discovered that the critically-endangered Hawaiian crow is a highly proficient tool user. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914135925.jpg" height="260" width="300" />
+            <pubDate>Wed, 14 Sep 2016 13:59:25 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914135925.htm</guid>
+        </item>
+        <item>
+            <title>New discovery shatters previous beliefs about Earth’s origin</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914134917.htm</link>
+            <description>A new study demonstrates that the Earth and other planetary objects formed in the early years of the Solar System share similar chemical origins -- a finding at odds with accepted wisdom held by scientists for decades. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914134917.jpg" height="87" width="300" />
+            <pubDate>Wed, 14 Sep 2016 13:49:17 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914134917.htm</guid>
+        </item>
+        <item>
+            <title>Chemists report new insights about properties of matter at the nanoscale</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914113929.htm</link>
+            <description>Nanoscience researchers have determined that a fluid that behaves similarly to water in our day-to-day lives becomes as heavy as honey when trapped in a nanocage of a porous solid, offering new insights into how matter behaves in the nanoscale world. <!-- more --></description>
+            <pubDate>Wed, 14 Sep 2016 11:39:29 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914113929.htm</guid>
+        </item>
+        <item>
+            <title>All polar bears across the Arctic face shorter sea ice season</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914095602.htm</link>
+            <description>A new study finds a trend toward earlier sea ice melt in the spring and later ice growth in the fall across all 19 polar bear populations, which can negatively impact the feeding and breeding capabilities of the bears. The paper is the first to quantify the sea ice changes in each polar bear subpopulation across the entire Arctic region using metrics that are specifically relevant to polar bear biology. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914095602.jpg" height="200" width="300" />
+            <pubDate>Wed, 14 Sep 2016 09:56:02 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914095602.htm</guid>
+        </item>
+        <item>
+            <title>Half of kids in American families studied spend time in households with firearms</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914090555.htm</link>
+            <description>About half of the children whose parents were surveyed in the United States spend time in homes that have firearms, a study of shows. However, few reported talking about gun safety with their children&#039;s pediatricians, say the researchers. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914090555.jpg" height="200" width="300" />
+            <pubDate>Wed, 14 Sep 2016 09:05:55 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914090555.htm</guid>
+        </item>
+        <item>
+            <title>A bad bite is associated with worse postural, balance control</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914090458.htm</link>
+            <description>In recent years there has been increasing medical interest in correcting teeth that do not touch perfectly in order to prevent problems such as jaw pain, gaps between teeth and crowding. Now, a new study has concluded that dental occlusion is also related to the control of posture and balance. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914090458.jpg" height="178" width="300" />
+            <pubDate>Wed, 14 Sep 2016 09:04:58 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914090458.htm</guid>
+        </item>
+        <item>
+            <title>Icy giant planet growing around a nearby star</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914090456.htm</link>
+            <description>Astronomers found signs of a growing planet around TW Hydra, a nearby young star, using the Atacama Large Millimeter/submillimeter Array (ALMA). Based on the distance from the central star and the distribution of tiny dust grains, the baby planet is thought to be an icy giant, similar to Uranus and Neptune in our Solar System. This result is another step towards understanding the origins of various types of planets. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914090456.jpg" height="299" width="300" />
+            <pubDate>Wed, 14 Sep 2016 09:04:56 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914090456.htm</guid>
+        </item>
+        <item>
+            <title>High factor sunscreen can decrease the risk of melanoma by 33%</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914090319.htm</link>
+            <description>Using high factor sunscreen compared with low factor sunscreen can decrease the risk of melanoma by 33%, new research demonstrates. Melanoma is the cancer with the strongest increase in incidence in the last decade. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914090319.jpg" height="200" width="300" />
+            <pubDate>Wed, 14 Sep 2016 09:03:19 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914090319.htm</guid>
+        </item>
+        <item>
+            <title>How our brain slows down the effects of aging</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914090317.htm</link>
+            <description>The older we get, the more difficult it becomes to put the world around us in order. Yet, our brain develops remarkable strategies to slow down the effects of aging. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914090317.jpg" height="200" width="300" />
+            <pubDate>Wed, 14 Sep 2016 09:03:17 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914090317.htm</guid>
+        </item>
+        <item>
+            <title>Astronomers shed light on different galaxy types</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160914085800.htm</link>
+            <description>Scientists have taken a critical step towards understanding why different types of galaxies exist throughout the Universe. The research, made possible by cutting-edge instrumentation, means that astronomers can now classify galaxies according to their physical properties rather than human interpretation of a galaxy&#039;s appearance. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160914085800.jpg" height="188" width="300" />
+            <pubDate>Wed, 14 Sep 2016 08:58:00 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160914085800.htm</guid>
+        </item>
+        <item>
+            <title>Pop science: Engineers stop soap bubbles from swirling</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913173317.htm</link>
+            <description>Engineers have happened upon a way to stop the movement of the colorful eddies on the surface of soap bubbles. The results are works of art that could lead to stable engineered foams for medical treatments, personal products and food. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913173317.jpg" height="293" width="300" />
+            <pubDate>Tue, 13 Sep 2016 17:33:17 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913173317.htm</guid>
+        </item>
+        <item>
+            <title>New fabric uses sun and wind to power devices</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913141508.htm</link>
+            <description>Fabrics that can generate electricity from physical movement have been in the works for a few years. Now researchers have taken the next step, developing a fabric that can simultaneously harvest energy from both sunshine and motion. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913141508.jpg" height="233" width="300" />
+            <pubDate>Tue, 13 Sep 2016 14:15:08 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913141508.htm</guid>
+        </item>
+        <item>
+            <title>Link between walk, aggression discovered</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913125309.htm</link>
+            <description>The way people walk can give clues to how aggressive they are, a new exploratory study has found. The work found that the exaggerated movement of both the upper and lower body indicated aggression. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913125309.jpg" height="200" width="300" />
+            <pubDate>Tue, 13 Sep 2016 12:53:09 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913125309.htm</guid>
+        </item>
+        <item>
+            <title>Chess skill is linked to intelligence</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913124722.htm</link>
+            <description>Intelligence -- and not just relentless practice -- plays a significant role in determining chess skill, indicates a comprehensive new study. The research provides some of the most conclusive evidence to date that cognitive ability is linked to skilled performance -- a hotly debated issue in psychology for decades -- and refutes theories that expertise is based solely on intensive training. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913124722.jpg" height="206" width="300" />
+            <pubDate>Tue, 13 Sep 2016 12:47:22 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913124722.htm</guid>
+        </item>
+        <item>
+            <title>Mice born from &#039;tricked&#039; eggs</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913124557.htm</link>
+            <description>Eggs can be &#039;tricked&#039; into developing into an embryo without fertilization, but the resulting embryos, called parthenogenotes, die after a few days because key developmental processes requiring input from sperm don&#039;t happen. However, scientists have developed a method of injecting mouse parthenogenotes with sperm that allows them to become healthy baby mice with a success rate of up to 24 per cent. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913124557.jpg" height="233" width="300" />
+            <pubDate>Tue, 13 Sep 2016 12:45:57 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913124557.htm</guid>
+        </item>
+        <item>
+            <title>Linking perception to action</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913120618.htm</link>
+            <description>A neuroscientist has mapped brain cell activity that occurs during the delay between sensation and action. Using a powerful laser-scanning microscope, the work was able to detect the signals from calcium indicators expressed in the neurons well below the brain&#039;s surface. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913120618.jpg" height="200" width="300" />
+            <pubDate>Tue, 13 Sep 2016 12:06:18 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913120618.htm</guid>
+        </item>
+        <item>
+            <title>Westerly winds have blown across central Asia for at least 42 million years</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913115639.htm</link>
+            <description>The winds that gust across the Tibetan Plateau have done so for far longer than previously believed, showing they are resilient to the formation of mountains and changes in carbon dioxide and temperature. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913115639.jpg" height="400" width="300" />
+            <pubDate>Tue, 13 Sep 2016 11:56:39 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913115639.htm</guid>
+        </item>
+        <item>
+            <title>Astronomers observe star reborn in a flash</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913115630.htm</link>
+            <description>Astronomers using Hubble have been able to study stellar evolution in real time. Over a period of 30 years dramatic increases in the temperature of the star SAO 244567 have been observed. Now the star is cooling again, having been reborn into an earlier phase of stellar evolution. This makes it the first reborn star to have been observed during both the heating and cooling stages of rebirth. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913115630.jpg" height="300" width="300" />
+            <pubDate>Tue, 13 Sep 2016 11:56:30 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913115630.htm</guid>
+        </item>
+        <item>
+            <title>Magma build-up at Japanese volcano poses threat to &#039;Naples of the Eastern World&#039;</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160913095901.htm</link>
+            <description>One of Japan&#039;s most active volcanoes could be close to a major eruption, threatening the safety of hundreds and thousands of residents of a nearby city, a new study has shown. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160913095901.jpg" height="200" width="300" />
+            <pubDate>Tue, 13 Sep 2016 09:59:01 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160913095901.htm</guid>
+        </item>
+        <item>
+            <title>Brain-sensing technology allows typing at 12 words per minute</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912192945.htm</link>
+            <description>It does not take an infinite number of monkeys to type a passage of Shakespeare. Instead, it takes a single monkey equipped with brain-sensing technology -- and a cheat sheet. Technology for reading signals directly from the brain could provide a way for people with movement disabilities to communicate. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912192945.jpg" height="197" width="300" />
+            <pubDate>Mon, 12 Sep 2016 19:29:45 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912192945.htm</guid>
+        </item>
+        <item>
+            <title>Explaining why the universe can be &#039;transparent&#039;: Universe&#039;s reionization is based on a galaxy&#039;s dust content</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912173840.htm</link>
+            <description>Scientists can explain why the universe has enough energy to become transparent. The study marks the first quantitative study of how the gas content within galaxies scales with the amount of interstellar dust. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912173840.jpg" height="132" width="300" />
+            <pubDate>Mon, 12 Sep 2016 17:38:40 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912173840.htm</guid>
+        </item>
+        <item>
+            <title>Light tames lethal heart disorders in mice and virtual humans</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912173836.htm</link>
+            <description>Using high-tech human heart models and mouse experiments, scientists have shown that beams of light could replace electric shocks in patients reeling from a deadly heart rhythm disorder. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912173836.jpg" height="191" width="300" />
+            <pubDate>Mon, 12 Sep 2016 17:38:36 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912173836.htm</guid>
+        </item>
+        <item>
+            <title>Breakthrough in genetic modification of grains</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912161038.htm</link>
+            <description>Genetic modification of plants might be controversial in commercial applications, but it is undeniably useful for research purposes. Despite years of effort, it has been remarkably difficult to develop efficient methods for transformation of grain crops. New work reports on a method to genetically modify maize and other grains. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912161038.jpg" height="200" width="300" />
+            <pubDate>Mon, 12 Sep 2016 16:10:38 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912161038.htm</guid>
+        </item>
+        <item>
+            <title>Stress negatively affects chances of conception, science shows</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912161019.htm</link>
+            <description>Women who reported feeling more stressed during their ovulatory window were approximately 40-percent less likely to conceive during that month than other less stressful months, research shows. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912161019.jpg" height="200" width="300" />
+            <pubDate>Mon, 12 Sep 2016 16:10:19 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912161019.htm</guid>
+        </item>
+        <item>
+            <title>A nose by any other name would sound the same</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912161010.htm</link>
+            <description>In a study that shatters a cornerstone concept in linguistics, an analysis of nearly two-thirds of the world&#039;s languages shows that humans tend to use the same sounds for common objects and ideas, no matter what language they&#039;re speaking. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912161010.jpg" height="200" width="300" />
+            <pubDate>Mon, 12 Sep 2016 16:10:10 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912161010.htm</guid>
+        </item>
+        <item>
+            <title>Mars rover views spectacular layered rock formations</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912145138.htm</link>
+            <description>The layered geologic past of Mars is revealed in stunning detail in new color images returned by NASA&#039;s Curiosity Mars rover, which is currently exploring the &quot;Murray Buttes&quot; region of lower Mount Sharp. The new images arguably rival photos taken in U.S. National Parks. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912145138.jpg" height="268" width="300" />
+            <pubDate>Mon, 12 Sep 2016 14:51:38 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912145138.htm</guid>
+        </item>
+        <item>
+            <title>New studies double number of known sites in genome linked to high blood pressure</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912141955.htm</link>
+            <description>Several large international groups of researchers report data that more than doubles the number of sites in the human genome tied to blood pressure regulation. One of the studies turned up unexpected hints that biochemical signals controlling blood pressure may spring from within cells that line blood vessels themselves. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912141955.jpg" height="200" width="300" />
+            <pubDate>Mon, 12 Sep 2016 14:19:55 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912141955.htm</guid>
+        </item>
+        <item>
+            <title>NASA&#039;s THEMIS sees Auroras move to the rhythm of Earth&#039;s magnetic field</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912141948.htm</link>
+            <description>For the first time, scientists have directly mapped Earth&#039;s fluctuating magnetic field and resulting electrical currents to aurora, thanks to northern lights observations from NASA&#039;s THEMIS mission. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912141948.jpg" height="223" width="300" />
+            <pubDate>Mon, 12 Sep 2016 14:19:48 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912141948.htm</guid>
+        </item>
+        <item>
+            <title>Eastern forests use up nitrogen in soil during earlier, greener springs</title>
+            <link>https://www.sciencedaily.com/releases/2016/09/160912141555.htm</link>
+            <description>A warming climate is causing earlier springs and later autumns in eastern forests of the United States, lengthening the growing season for trees and potentially changing how forests function. Scientists have found that in years with early springs, trees use more nitrogen to grow than is naturally provided in soil, which could impact tree growth rates and the amount of carbon dioxide forests take out of the atmosphere. <!-- more --></description>
+            <media:thumbnail url="https://images.sciencedaily.com/2016/09/160912141555.jpg" height="225" width="300" />
+            <pubDate>Mon, 12 Sep 2016 14:15:55 EDT</pubDate>
+            <guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/09/160912141555.htm</guid>
+        </item>
+    </channel>
+</rss>
+<!-- Page successfully written to cache. -->
+<!-- cached Sun, 18 Sep 2016 15:24:01 EDT -->
