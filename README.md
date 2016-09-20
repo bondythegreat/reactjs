@@ -1,8 +1,8 @@
-# React Read WebAPI (XML) Examples
+# Reactjs Consumes WebAPI data (XML) Examples
 author: bondan sentanu (http://bondan.senta.nu)
 Bali, 19 September 2016
 
-Here is a small React demo to show my understanding, with AJAX functionality.
+Here is a small Reactjs demo to show my understanding, with AJAX functionality.
 
 The technology stack:
 - ReactJS
