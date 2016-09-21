@@ -2,23 +2,42 @@
 var url = "http://bondan.senta.nu/portfolio/reactjs/assets/data/data.xml",
     numItem = 20;
 
+var notification = React.createClass({
+  render: function() {
+    return(
+      <div className="notification">
+        {this.props.msg}
+      </div>
+    );
+  }
+});
+
 var NewsList = React.createClass({
   getInitialState: function() {
-    return {
-      data: []
-    };
+    return ({
+      data: [],
+      showNotif: false,
+      showLoading: false
+    });
+  },
+  ShowNotification: function() {
+    return (
+      <Notification msg="new data" />
+    );
   },
   ajaxRequest: function() {
     var self = this,
         randomNum = Math.floor((Math.random() * 10000) + 1), /* force new cache of google feeds */
         newUrl = this.props.rss +"?&t=" + new Date().getTime() + randomNum,
-        feed = new google.feeds.Feed(newUrl);
+        feed;
 
+    feed = new google.feeds.Feed(newUrl);
     feed.setNumEntries(numItem);
     feed.includeHistoricalEntries();
 
     feed.load(function(result) {
       self.setState({data: result.feed.entries});
+      self.setState({showLoading: false});
     });
     /*var self = this;
     var xhr = new XMLHttpRequest();
@@ -31,40 +50,44 @@ var NewsList = React.createClass({
     };
     xhr.send(null);*/
   },
+  componentWillMount: function() {
+    this.setState({showLoading: true});
+  },
   componentDidMount: function() {
     this.ajaxRequest();
     setInterval(this.ajaxRequest, 2000);
   },
   render: function() {
+    var loadingElement;
+    if (this.state.showLoading) {
+      loadingElement = <Loader />
+    }
     return (
-      <NewsItem data={this.state.data} />
+      <div>
+        {loadingElement}
+        <NewsItem data={this.state.data} />
+      </div>
     );
   }
 });
 
 var NewsItem = React.createClass({
   render: function() {
-    if (this.props.data == ""){
-      return(
-        <Loader />
+    var newsNode = this.props.data.map(function(item, i) {
+      return (
+        <li className="news-item" key={i}>
+          <small className="publish-date">{item.publishedDate}</small>
+          <h3 className="title">{item.title}</h3>
+          <div className="description">{item.contentSnippet}</div>
+          <a href="{item.link}">{item.link}</a>
+        </li>
       );
-    } else {
-      var newsNode = this.props.data.map(function(item, i) {
-        return (
-          <li className="news-item" key={i}>
-            <small className="publish-date">{item.publishedDate}</small>
-            <h3 className="title">{item.title}</h3>
-            <div className="description">{item.contentSnippet}</div>
-            <a href="{item.link}">{item.link}</a>
-          </li>
-        );
-      });
-      return(
-        <ul className="newslist">
-          {newsNode}
-        </ul>
-      );
-    }
+    });
+    return(
+      <ul className="newslist">
+        {newsNode}
+      </ul>
+    );
   }
 });
 

@@ -44,6 +44,17 @@ li.news-item .description {
   margin: 20px 40px;
   padding-left: 70px;
 }
+.notification {
+  background-color: green;
+  border-radius: 4px;
+  color: #ffffff;
+  display: inline-block;
+  padding: 5px 20px;
+  position: fixed;
+  top: 66px;
+  right: 20px;
+  z-index: 10000;
+}
 .slice text {
   font-size: 10px;
 }
