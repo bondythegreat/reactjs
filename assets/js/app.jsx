@@ -2,7 +2,7 @@
 var url = "http://bondan.senta.nu/portfolio/reactjs/assets/data/data.xml",
     numItem = 20;
 
-var notification = React.createClass({
+var Notification = React.createClass({
   render: function() {
     return(
       <div className="notification">
@@ -20,7 +20,7 @@ var NewsList = React.createClass({
       showLoading: false
     });
   },
-  ShowNotification: function() {
+  showNotification: function() {
     return (
       <Notification msg="new data" />
     );
@@ -57,10 +57,11 @@ var NewsList = React.createClass({
     this.ajaxRequest();
     setInterval(this.ajaxRequest, 2000);
   },
+  shouldComponentUpdate: function(nextProps, nextState){
+    return (this.state.data != nextState.data);
+  },
   componentDidUpdate: function(prevProps, prevState) {
-    if (this.state.data != prevState.data) {
-      //this.setState({showNotif: !this.state.showNotif});
-    }
+    //return(this.setState({showNotif: !this.state.showNotif}));
   },
   render: function() {
     var loadingElement, notifElement;
@@ -68,7 +69,7 @@ var NewsList = React.createClass({
       loadingElement = <Loader />
     }
     if(this.state.showNotif) {
-      notifElement = <Notification />
+      notifElement = this.showNotification();
     }
     return (
       <div>
