@@ -106,13 +106,14 @@ var PieChartCalculation = React.createClass({
     return {
       // TODO: GET DATA FROM NewsList state value
       // still dummy data
-      data: [
+      dataDummy: [
         {"label":"17 September 2016","value":"1"},
         {"label":"16 September 2016","value":"10"},
         {"label":"15 September 2016","value":"5"},
         {"label":"13 September 2016","value":"6"},
         {"label":"10 September 2016","value":"1"},
       ],
+      data: [],
       showLoading: true
     };
   },
@@ -120,7 +121,7 @@ var PieChartCalculation = React.createClass({
     d3chart.create({
       width: '300',
       height: '400'
-    }, this.state.data);
+    }, this.state.dataDummy);
     this.setState({showLoading:false});
   },
   countByDate: function() {
