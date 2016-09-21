@@ -57,6 +57,9 @@ var NewsList = React.createClass({
     this.ajaxRequest();
     setInterval(this.ajaxRequest, 2000);
   },
+  componentDidUpdate: function(prevProps, prevState) {
+    this.ShowNotification();
+  },
   render: function() {
     var loadingElement;
     if (this.state.showLoading) {
