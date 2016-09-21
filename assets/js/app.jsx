@@ -46,9 +46,7 @@ var NewsItem = React.createClass({
   render: function() {
     if (this.props.data == ""){
       return(
-        <div className="loading">
-          Loading ..
-        </div>
+        <Loader />
       );
     } else {
       var newsNode = this.props.data.map(function(item, i) {
@@ -81,7 +79,8 @@ var PieChartCalculation = React.createClass({
         {"label":"15 September 2016","value":"5"},
         {"label":"13 September 2016","value":"6"},
         {"label":"10 September 2016","value":"1"},
-      ]
+      ],
+      showLoading: true
     };
   },
   componentDidMount: function() {
@@ -89,6 +88,7 @@ var PieChartCalculation = React.createClass({
       width: '300',
       height: '400'
     }, this.state.data);
+    this.setState({showLoading:false});
   },
   countByDate: function() {
     // TODO: count per date
@@ -105,8 +105,9 @@ var PieChartCalculation = React.createClass({
     });
   },
   render: function() {
+    var returnValue = (this.state.showLoading) ? <Loader /> : null;
     return(
-      null
+      <div>{returnValue}</div>
     );
   }
 });
@@ -115,6 +116,14 @@ var ShowChart = React.createClass({
   render: function() {
     return(
       <PieChartCalculation />
+    );
+  }
+});
+
+var Loader = React.createClass({
+  render: function() {
+    return(
+      <div className="loading">Loading ..</div>
     );
   }
 });
