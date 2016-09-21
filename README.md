@@ -10,4 +10,9 @@ The technology stack:
 - Bootstrap 3
 - Google Feed API (xml to json)
 
+Notes
+JSXTransformer using AJAX to execute the JSX codes.
+Run this app in webserver or in Firefox browser if you are in local machine.
+http://stackoverflow.com/questions/20904098/react-js-example-in-tutorial-not-working
+
 Live Demo: http://bondan.senta.nu/portfolio/reactjs
