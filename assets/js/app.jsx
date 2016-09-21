@@ -57,16 +57,17 @@ var NewsList = React.createClass({
     this.ajaxRequest();
     setInterval(this.ajaxRequest, 2000);
   },
-  componentDidUpdate: function(prevProps, prevState) {
-    this.ShowNotification();
-  },
   render: function() {
-    var loadingElement;
+    var loadingElement, notifElement;
     if (this.state.showLoading) {
       loadingElement = <Loader />
     }
+    if(this.state.showNotif) {
+      notifElement = <Notification />
+    }
     return (
       <div>
+        {notifElement}
         {loadingElement}
         <NewsItem data={this.state.data} />
       </div>
