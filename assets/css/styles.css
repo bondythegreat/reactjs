@@ -4,6 +4,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   padding-bottom: 30px;
   padding-top: 70px;
+  word-wrap: break-word;
 }
 .navbar-inverse .navbar-brand {
   color: #ff5252;
