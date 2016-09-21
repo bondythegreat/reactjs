@@ -36,8 +36,13 @@ var NewsList = React.createClass({
     feed.includeHistoricalEntries();
 
     feed.load(function(result) {
+      if (JSON.stringify(self.state.data) !== JSON.stringify(result.feed.entries)) {
+        self.setState({showLoading: false});
+        self.setState({showNotif: true});
+      } else {
+        self.setState({showNotif: false});
+      }
       self.setState({data: result.feed.entries});
-      self.setState({showLoading: false});
     });
     /*var self = this;
     var xhr = new XMLHttpRequest();
